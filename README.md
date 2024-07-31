@@ -1,5 +1,5 @@
 # Standardize
-Perl script for fixing names of devices following company's naming standard.
+Anonymized Perl script for fixing names of devices following company's naming standard.
 
 I check and update names that do not follow the standard. 
 
